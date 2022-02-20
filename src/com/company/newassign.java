@@ -64,7 +64,6 @@ public class newassign {
         student.getAvg();
         student.getdisplay();
         student.setGrade();
-        System.out.println("This is mahindra bhagat coding");
     }
 }
 
