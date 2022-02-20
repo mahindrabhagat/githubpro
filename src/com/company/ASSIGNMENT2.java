@@ -51,5 +51,6 @@ public class ASSIGNMENT2 {
         student.setvg();
         student.getvg();
         student.getisplay();
+        System.out.println("This is mahindra bhagat coding");
     }
 }
